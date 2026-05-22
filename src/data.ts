@@ -1,7 +1,7 @@
 export const COMPANY_DATA = {
   name: "Linea Odontologia Especializada | Dra Romana Silva",
   phone: "(62) 3636-8758",
-  whatsapp: "556236368758", // Assuming the landline/whatsapp is the same or converting for WA link
+  whatsapp: "5562983096363", // Assuming the landline/whatsapp is the same or converting for WA link
   address: "Tv. Bezerra de Menezes, 52 - St. Sul, Goiânia - GO, 74080-330",
   locationName: "ILUMYNATA ODONTOLOGIA",
   instagram: "@draromanasilvasc",
